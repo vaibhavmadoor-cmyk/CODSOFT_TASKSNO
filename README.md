@@ -2,6 +2,14 @@
 
 This repository contains the projects completed as part of my Artificial Intelligence internship at CodSoft.
 
+## Internship Tasks
+
+- [x] Task 1 - Rule-Based Chatbot
+- [x] Task 2 - Tic-Tac-Toe AI
+- [x] Task 3 - Image Captioning
+
+---
+
 ## Task 1 - Rule-Based Chatbot
 
 ### Project Description
@@ -20,14 +28,12 @@ A simple rule-based chatbot developed using Python. The chatbot interacts with t
 ### Technologies Used
 
 - Python
-- Conditional statements
 - Functions
+- Conditional statements
 - String processing
 - While loop
 
 ### How to Run
-
-Open the terminal in the project folder and run:
 
 ```bash
 python Task1_Chatbot/chatbot.py
